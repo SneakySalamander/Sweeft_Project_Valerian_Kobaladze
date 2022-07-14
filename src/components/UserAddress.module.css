@@ -1,0 +1,16 @@
+.container{
+    font-weight: 400;
+}
+
+.container p {
+    margin: 0px;
+}
+
+.title{
+    font-style: italic;
+    margin: 0px;
+}
+
+.container span{
+    text-decoration: underline;
+}

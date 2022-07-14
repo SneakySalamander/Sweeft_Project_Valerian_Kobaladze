@@ -1,0 +1,33 @@
+.container {
+    margin-top: -25px;
+    max-width: 1100px;
+}
+
+.container ul {
+    position: relative;
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 0px;
+}
+
+.container li {
+   margin: 15px 10px;
+}
+
+.container h3{
+    text-align: center;
+}
+
+@media screen and (max-width: 900px) { 
+    .container ul {
+        list-style-type: none;
+        display: grid;
+        grid-template-columns: auto auto;
+        width: 100%;
+    }
+  }
+
+
+
+

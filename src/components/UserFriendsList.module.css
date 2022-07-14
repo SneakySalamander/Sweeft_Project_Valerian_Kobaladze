@@ -1,0 +1,16 @@
+.container ul {
+    position: relative;
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-content: center;
+    right: 22.5px;
+}
+
+.container li {
+    margin: 5px;
+}
+
+.container h3{
+    text-align: center;
+}

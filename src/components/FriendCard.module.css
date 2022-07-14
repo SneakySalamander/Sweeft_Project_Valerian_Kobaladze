@@ -1,0 +1,18 @@
+.card {
+    margin: 4px;
+    border: 1px solid rgb(197, 197, 197);
+    border-radius: 1px;
+    text-align: start;
+}
+
+.card img {
+    max-width: 269px;
+    max-height: 194px;
+}
+
+.card p, h4{
+    margin: 0;
+    padding-left: 4px;
+    color: black;
+    text-decoration: none;
+}
